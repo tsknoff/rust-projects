@@ -1,0 +1,25 @@
+#install latest version of rust
+$ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+#compile with compiler
+$ rustc [FILENAME].rs
+
+
+#create project
+$ cargo new [PROJECT_NAME]
+
+#build project for debug
+$ cargo build
+
+#run project
+$ cargo run
+
+#check project
+$ cargo check
+
+#build project for release
+$ cargo build --release
+
+#update dependencies
+$ cargo update
+
