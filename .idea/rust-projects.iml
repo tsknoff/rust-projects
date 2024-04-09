@@ -5,10 +5,12 @@
       <sourceFolder url="file://$MODULE_DIR$/coin_match/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/restaurant/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/strings/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/terminal_usage/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vectors/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/coin_match/target" />
       <excludeFolder url="file://$MODULE_DIR$/restaurant/target" />
       <excludeFolder url="file://$MODULE_DIR$/strings/target" />
+      <excludeFolder url="file://$MODULE_DIR$/terminal_usage/target" />
       <excludeFolder url="file://$MODULE_DIR$/vectors/target" />
     </content>
     <orderEntry type="inheritedJdk" />
