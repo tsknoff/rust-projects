@@ -1,4 +1,4 @@
-use std::io::{self, Write};
+use std::io::{self};
 use std::time::{Duration, Instant};
 use crossterm::{
     cursor::{MoveTo, Hide, Show},
@@ -18,13 +18,13 @@ fn main() -> io::Result<()> {
 
     let mut x_position = 0;
     let mut last_tick = Instant::now();
-    let tick_rate = Duration::from_millis(10); // Скорость обновления - 100 мс
+    let tick_rate = Duration::from_millis(200); // Скорость обновления - 100 мс
 
     loop {
         // Обработка события нажатия клавиши для выхода
         if poll(Duration::from_millis(0))? {
             if let Event::Key(event) = read()? {
-                if event.code == KeyCode::Esc {
+                if event.code == KeyCode::Char('q') {
                     break;
                 }
             }
