@@ -1,3 +1,5 @@
+mod stats;
+
 fn main() {
     // Create a new string
     //let mut s = String::new(); // warning: unused variable: `s`
