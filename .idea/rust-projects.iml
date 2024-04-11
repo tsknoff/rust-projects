@@ -9,7 +9,9 @@
       <sourceFolder url="file://$MODULE_DIR$/error_handling/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/generics/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/hash_maps/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/minigrep/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/restaurant/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/snake_game/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/strings/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/terminal_usage/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/traits/src" isTestSource="false" />
@@ -20,7 +22,9 @@
       <excludeFolder url="file://$MODULE_DIR$/error_handling/target" />
       <excludeFolder url="file://$MODULE_DIR$/generics/target" />
       <excludeFolder url="file://$MODULE_DIR$/hash_maps/target" />
+      <excludeFolder url="file://$MODULE_DIR$/minigrep/target" />
       <excludeFolder url="file://$MODULE_DIR$/restaurant/target" />
+      <excludeFolder url="file://$MODULE_DIR$/snake_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/strings/target" />
       <excludeFolder url="file://$MODULE_DIR$/terminal_usage/target" />
       <excludeFolder url="file://$MODULE_DIR$/traits/target" />
