@@ -4,7 +4,6 @@ $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 #compile with compiler
 $ rustc [FILENAME].rs
 
-
 #create project
 $ cargo new [PROJECT_NAME]
 
@@ -22,4 +21,20 @@ $ cargo build --release
 
 #update dependencies
 $ cargo update
+
+#launch tests
+$ cargo test
+
+#choose threads count to launched tests
+$ cargo test -- --test-threads=1
+
+#show result of passed tests
+$ cargo test -- --show-output
+
+# run ignored tests
+$ cargo test -- --ignored
+
+# run all tests include ignored
+$ cargo test -- --include-ignored
+
 
