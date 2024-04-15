@@ -10,12 +10,20 @@
       <sourceFolder url="file://$MODULE_DIR$/generics/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/hash_maps/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/minigrep/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nannou-sketches/aquatic-juice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nannou-sketches/delicate-umbrella/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nannou-sketches/logo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nannou-sketches/rainy-grandfather/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nannou-sketches/sloppy-roof/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nannou-sketches/soft-watch/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nannou-sketches/uppity-parcel/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/restaurant/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/snake_game/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/strings/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/terminal_usage/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/traits/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vectors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/closures/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/adder/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_8_tasks/target" />
       <excludeFolder url="file://$MODULE_DIR$/coin_match/target" />
@@ -23,12 +31,14 @@
       <excludeFolder url="file://$MODULE_DIR$/generics/target" />
       <excludeFolder url="file://$MODULE_DIR$/hash_maps/target" />
       <excludeFolder url="file://$MODULE_DIR$/minigrep/target" />
+      <excludeFolder url="file://$MODULE_DIR$/nannou-sketches/target" />
       <excludeFolder url="file://$MODULE_DIR$/restaurant/target" />
       <excludeFolder url="file://$MODULE_DIR$/snake_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/strings/target" />
       <excludeFolder url="file://$MODULE_DIR$/terminal_usage/target" />
       <excludeFolder url="file://$MODULE_DIR$/traits/target" />
       <excludeFolder url="file://$MODULE_DIR$/vectors/target" />
+      <excludeFolder url="file://$MODULE_DIR$/closures/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
