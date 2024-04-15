@@ -24,6 +24,7 @@
       <sourceFolder url="file://$MODULE_DIR$/traits/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vectors/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/closures/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/iterators/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/adder/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_8_tasks/target" />
       <excludeFolder url="file://$MODULE_DIR$/coin_match/target" />
@@ -39,6 +40,7 @@
       <excludeFolder url="file://$MODULE_DIR$/traits/target" />
       <excludeFolder url="file://$MODULE_DIR$/vectors/target" />
       <excludeFolder url="file://$MODULE_DIR$/closures/target" />
+      <excludeFolder url="file://$MODULE_DIR$/iterators/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
